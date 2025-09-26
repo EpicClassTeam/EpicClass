@@ -43,7 +43,7 @@ O aplicativo será desenvolvido para funcionar em dispositivos móveis (Android 
 
 ---
 
-## Missão do Produto
+## Missão do EpicClass
 
 O EpicClass tem a missão de tornar o estudo mais motivador e interativo, ajudando os alunos a cumprir prazos e melhorar seu desempenho acadêmico. Ao mesmo tempo, oferecerá aos professores ferramentas inovadoras para engajar turmas e monitorar o progresso dos estudantes.
 
